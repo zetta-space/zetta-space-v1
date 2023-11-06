@@ -13,7 +13,7 @@ function SideBar() {
     <>
       <Sheet>
         <SheetTrigger>Open</SheetTrigger>
-        <SheetContent>
+        <SheetContent side={"left"}>
           <SheetHeader>
             <SheetTitle>Are you sure absolutely sure?</SheetTitle>
             <SheetDescription>

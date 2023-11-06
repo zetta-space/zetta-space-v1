@@ -1,0 +1,3 @@
+type Badge = {
+    prop: string
+}
