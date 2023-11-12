@@ -27,7 +27,7 @@ function Footer() {
         </div> */}
       <div className="flex px-5 justify-center">
         <p className="font-medium text-white capitalize py-3 text-xs">
-          all rights received - zetta space powered by zetta technologies
+          powered by zetta technologies
         </p>
       </div>
     </footer>
