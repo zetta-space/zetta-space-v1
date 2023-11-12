@@ -9,7 +9,11 @@ function Navbar() {
         <SideBar />
       </div>
       <span>
-        <h2 className="text-5xl font-bold capitalize">Z.</h2>
+        <h2 className="text-5xl font-bold capitalize text-center">
+          {/* <span className="text-red-600">v</span>
+          <span className="text-blue-600">R.</span> */}
+          Z.
+        </h2>
       </span>
       <div className="flex flex-row justify-start items-center gap-3">
         <Link
